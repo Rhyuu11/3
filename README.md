@@ -1,7 +1,9 @@
 ### SILAHKAN DAFTAR UNTUK MENDAPATKAN LISENCED KEY DAN PASSWORD
-### CONTACT PERSON https://wa.me/+6285161711587 (WhatsApp)
-###                              https://t.me/Rhyuu11 (Telegram)
+### CONTACT PERSON 
+- https://wa.me/+6285161711587 (WhatsApp)
+- https://t.me/Rhyuu11 (Telegram)
 
+### Cara Instal Script :
 ### Langkah 1 : UPDATE & UPGRADE UNTUK MENGHINDARI ERORR
 ```html
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
