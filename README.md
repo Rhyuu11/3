@@ -4,12 +4,12 @@
 - https://t.me/Rhyuu11 (Telegram)
 
 ### Cara Instal Script :
-### Langkah 1 : UPDATE & UPGRADE UNTUK MENGHINDARI ERORR
+### Langkah awal: UPDATE & UPGRADE UNTUK MENGHINDARI ERORR
 ```html
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 
-### Langkah 2: INSTALL VPN
+### Langkah akhir: INSTALL VPN
 ```html
 apt update && apt upgrade -y && update-grub && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/Rhyuu11/3/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
